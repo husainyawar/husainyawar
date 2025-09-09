@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Husain 👋
 
-<!--
-**husainyawar/husainyawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (4th Year) | 💻 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **Java, Python, Data Sience**
+- 🤖 Exploring **AI/ML**
+- 🎯 Goal: High-paying tech career (FAANG/Fintech/Entrepreneurship)  
+- 📫 Reach me at: husainyawar14@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, C, Python  
+- **Database:** MySQL  
+- **Tools:** Git, IntelliJ IDEA, VS Code  
+
+## 📊 GitHub Stats
+![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=husainyawar&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/husain-yawar-122506368 
+- Email: husainyawar14@gmail.com
