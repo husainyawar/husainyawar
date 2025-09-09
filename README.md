@@ -9,9 +9,19 @@
 - 📫 Reach me at: husainyawar14@gmail.com  
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, C, Python  
-- **Database:** MySQL  
-- **Tools:** Git, IntelliJ IDEA, VS Code  
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-purple?logo=intellijidea&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=husainyawar&show_icons=true&theme=tokyonight)
